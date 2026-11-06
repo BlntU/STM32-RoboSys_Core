@@ -1,0 +1,35 @@
+# IDE metadata
+.metadata/
+.settings/
+*.launch
+
+# Build outputs
+Debug/
+Release/
+
+# Compiled binaries and object files
+*.o
+*.a
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.lst
+*.srec
+
+# Debug and temporary files
+*.dmp
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Visual Studio Code (if used)
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
